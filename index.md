@@ -8,6 +8,10 @@
 
 ## **Table of contents**
 
+### 
+
+### [Blog](#)
+
 ### [Announcements](#)
 * #### [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
 * #### [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
